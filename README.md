@@ -2,6 +2,8 @@
 
 [![Developer Chat](https://img.shields.io/gitter/room/proot-me/devs.svg?style=flat-square)](https://gitter.im/proot-me/gsoc)
 
+Welcome students! Please take a look at the [contributing guide](CONTRIBUTING.md) for more information.
+
 ## Credits
 
 Inspired by [Gentoo's GSoC Project](https://wiki.gentoo.org/wiki/Google_Summer_of_Code).
