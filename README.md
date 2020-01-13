@@ -2,6 +2,10 @@
 
 [![Developer Chat](https://img.shields.io/gitter/room/proot-me/devs.svg?style=flat-square)](https://gitter.im/proot-me/gsoc)
 
+## Credits
+
+Inspired by [Gentoo's GSoC Project](https://wiki.gentoo.org/wiki/Google_Summer_of_Code).
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)][cc-by-4.0]
