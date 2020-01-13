@@ -11,7 +11,7 @@ All communications should take place on either [Gitter](https://gitter.im/proot-
 
 | Name                   | Location     |
 | ---------------------- | ------------ |
-| Lucas Ramage ([@oxr463](https://github.com/oxr463)) | Florida, USA |
+| [Lucas Ramage](mailto:lramage.gsoc@gmail.com) ([@oxr463](https://github.com/oxr463)) | Florida, USA |
 
 ## Expectations
 
