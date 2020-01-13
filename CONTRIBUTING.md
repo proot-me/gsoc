@@ -5,7 +5,17 @@ the purpose of this repository is specifically for students in the Google Summer
 
 ## Communication
 
+All communications should take place on either [Gitter](https://gitter.im/proot-me/gsoc), or on a thread in the [issue tracker](https://github.com/proot-me/proot/issues).
+
+## Mentors
+
+| Name                   | Location     |
+| ---------------------- | ------------ |
+| Lucas Ramage ([@oxr463](https://github.com/oxr463)) | Florida, USA |
+
 ## Expectations
+
+
 
 ## Resources
 
