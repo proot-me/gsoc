@@ -1,6 +1,6 @@
 ---
 name: Project Idea
-about: Describe this issue template's purpose here.
+about: Create your own project idea.
 title: ''
 labels: idea
 assignees: ''
