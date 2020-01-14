@@ -17,7 +17,7 @@ All communications should take place on either [Gitter](https://gitter.im/proot-
 | ------------------------------------------------------------------------------------ | ---------- | ------------ |
 | Jonathan Passerat-Palmbach ([@jopasserat](https://github.com/jopasserat)) | Organization Administrator | London, UK |
 | Lucas Ramage ([@oxr463](https://github.com/oxr463)) | Organization Administrator, Mentor | Florida, USA |
-| Romain Reuillon ([@romainreuillon](https://github.com/romainreuillon)) | Contributor | Paris, UK |
+| Romain Reuillon ([@romainreuillon](https://github.com/romainreuillon)) | Contributor | Paris, FR |
 
 ## Expectations
 
