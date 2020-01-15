@@ -1,0 +1,11 @@
+site_name: PRoot's Google Summer of Code Ideas List
+site_author: Lucas Ramage
+
+theme:
+  name: gitbook
+
+docs_dir: ideas
+
+plugins: []
+
+repo_url: https://github.com/proot-me/gsoc.git
