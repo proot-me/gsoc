@@ -1,6 +1,6 @@
 # PRoot's Google Summer of Code Ideas List
 
-_A list of potential projects for contributing to PRoot / Care during GSoC._
+_A list of potential projects for contributing to PRoot / Care during GSoC 2020._
 
 ## Projects
 
