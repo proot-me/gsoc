@@ -1,6 +1,6 @@
 ---
 name: Proposal
-about:
+about: Submit a project proposal.
 title: ''
 labels: proposal
 assignees: ''
