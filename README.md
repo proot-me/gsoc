@@ -8,6 +8,8 @@ Welcome students! Please take a look at the [contributing guide](CONTRIBUTING.md
 ## Credits
 
 Inspired by [Gentoo's GSoC Project](https://wiki.gentoo.org/wiki/Google_Summer_of_Code).
+Also borrows from the [Creative Commons Open Source website](https://github.com/creativecommons/creativecommons.github.io-source),
+specifically their application instructions from GSoC 2019.
 
 ## License
 
