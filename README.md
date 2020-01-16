@@ -1,4 +1,4 @@
-# Google Summer of Code
+# [Google Summer of Code](https://summerofcode.withgoogle.com)
 
 [![Developer Chat](https://img.shields.io/gitter/room/proot-me/devs.svg?style=flat-square)](https://gitter.im/proot-me/gsoc)
 [![Google Calendar](https://img.shields.io/badge/calendar-google-yellow?style=flat-square)](https://calendar.google.com/calendar?cid=dTVwaWlrYzcyM3Zqa2NhZ2s1N25xZWdyMDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
