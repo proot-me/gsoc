@@ -4,6 +4,8 @@ _A list of potential projects for contributing to PRoot / Care during GSoC 2020.
 
 ## Projects
 
+- [Implementing libseccomp](https://proot-me.github.io/gsoc/seccomp)
+- [Unprivileged containers](https://proot-me.github.io/gsoc/rootless)
 - [Sustaining engineering and project maintenance](https://proot-me.github.io/gsoc/bugs)
 - [Rust Port](https://proot-me.github.io/gsoc/rust)
 - [PRoot / CARE and Intel SGX](https://proot-me.github.io/gsoc/sgx)
