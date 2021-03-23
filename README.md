@@ -1,8 +1,6 @@
-# [Google Summer of Code](https://summerofcode.withgoogle.com)
+# Google Summer of Code
 
 [![Developer Chat](https://img.shields.io/gitter/room/proot-me/devs.svg?style=flat-square)](https://gitter.im/proot-me/gsoc)
-[![Google Calendar](https://img.shields.io/badge/calendar-google-yellow?style=flat-square)](https://calendar.google.com/calendar?cid=dTVwaWlrYzcyM3Zqa2NhZ2s1N25xZWdyMDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-[![GSoC Status](https://img.shields.io/badge/gsoc--2020-org--rejected-red?style=flat-square)](https://user-images.githubusercontent.com/43783393/74989124-920f3680-540d-11ea-88b2-c4883303de69.png)
 
 Welcome students! Please take a look at the [contributing guide](CONTRIBUTING.md) for more information.
 
