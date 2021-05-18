@@ -2,9 +2,9 @@
 
 [![Developer Chat](https://img.shields.io/gitter/room/proot-me/devs.svg?style=flat-square)](https://gitter.im/proot-me/gsoc)
 
-Welcome students! Please take a look at the [contributing guide](CONTRIBUTING.md) for more information.
+Welcome students! Please take a look at the <https://101.opensuse.org/#PRoot> for more information.
 
-## Credits
+## Acknowledgement
 
 Inspired by [Gentoo's GSoC Project](https://wiki.gentoo.org/wiki/Google_Summer_of_Code).
 Also borrows from the [Creative Commons Open Source website](https://github.com/creativecommons/creativecommons.github.io-source),
